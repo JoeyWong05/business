@@ -1,0 +1,15 @@
+Build a powerful Omni-Channel Sales section inside the Business Execution System that allows business owners to manage and track their sales, inventory, and fulfillment across all platforms in one place. This section should integrate with major ecommerce platforms and marketplaces such as Shopify, Amazon, TikTok Shop, Etsy, and WooCommerce. Users should be able to connect their accounts using secure APIs or OAuth authentication and manage everything through a central dashboard.
+
+Include a top-level dashboard that shows total sales across all platforms, broken down by channel and date range. Show daily, weekly, and monthly trends in visual graphs with filters to view by product, platform, or campaign. Display a real-time feed of recent orders from each connected platform, with filters by fulfillment status, customer name, or channel.
+
+Build a unified inventory tracker that syncs stock levels across all connected channels. When one product is sold on one platform, automatically reduce inventory everywhere else. Include low inventory alerts, out-of-stock warnings, and reorder suggestions based on past sales data. Add bulk upload or manual inventory editing options.
+
+Include fulfillment and shipping management — allow users to mark orders as fulfilled, view tracking info, and filter by fulfillment speed. Add optional integrations with ShipStation, EasyPost, or in-house warehouse tools. Display metrics like average fulfillment time, returns, and delivery issues.
+
+Add a marketing performance overview that shows traffic, conversions, abandoned cart data, and platform-specific analytics (e.g., Shopify dashboard stats, Amazon conversions, TikTok Shop performance). Optionally allow for campaign tagging to associate products with influencer or ad campaigns.
+
+Design the Omni-Channel section to be intuitive, visual, and performance-driven. Use icons and logos for each sales channel, consistent UI cards, color-coded statuses (e.g., fulfilled, pending, shipped), and mobile responsiveness. Include summary KPIs at the top and expandable product-level detail sections.
+
+Allow for alerts, such as “X Product is low on stock on Shopify” or “New return received from Amazon.” Add an Export Report button to generate CSV or PDF reports for sales, inventory, and fulfillment by channel and timeframe.
+
+This section should give business owners a bird’s-eye view of their entire sales ecosystem while allowing them to take immediate action to optimize inventory, streamline fulfillment, and track revenue across every platform — all in one place.

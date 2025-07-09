@@ -1,0 +1,86 @@
+Please redesign the homepage of the Business Execution System to match the new sidebar layout and meet modern enterprise SaaS standards. This should be a clean, modular dashboard using the FOMSC structure (Finance, Operations, Marketing, Sales, Customer), with a premium visual design. The homepage should serve as a business command center for founders, partners, and executives. This layout must be mobile responsive, scalable, and aligned with the design language of platforms like Stripe, Notion, and Salesforce.
+
+⸻
+
+HIGH-LEVEL DESIGN GOALS
+	•	Organize homepage into clean, responsive card-based sections
+	•	Display only the most important KPIs and insights, with links to deeper modules
+	•	Use TailwindCSS or modern UI system for layout, shadows, spacing, animations
+	•	Ensure whitespace, iconography, and responsiveness are top-notch
+	•	Do not remove existing data — just restructure it
+
+⸻
+
+HOMEPAGE LAYOUT STRUCTURE
+
+1. Top Header Strip (Below Main Header)
+	•	Greeting: “Welcome back, [User] – here’s your business snapshot”
+	•	[Business Selector Dropdown]
+	•	[Date Range Filter]
+	•	[Automation Score Badge]
+	•	[AI Alert or Tip: e.g. “Valuation up 12% – great job this week!”]
+
+⸻
+
+2. FOMSC Summary Cards (Modular Dashboard Sections)
+
+Each FOMSC section should be a row or group of 2–3 cards:
+
+Finance
+	•	MTD / YTD Revenue (animated counter)
+	•	Valuation Estimate Card (Revenue × Multiple)
+	•	P&L Snapshot Chart
+
+Operations
+	•	SOP Completion %
+	•	Automation Score (with AI tips)
+	•	Tools & Integration Status
+
+Marketing
+	•	Campaigns Sent / Open Rate
+	•	SEO Performance Snapshot
+	•	Outreach Leaderboard
+
+Sales
+	•	Weekly Lead Pipeline
+	•	Orders by Channel (Shopify, TikTok Shop, etc.)
+	•	Conversion Funnel Summary
+
+Customer
+	•	CRM Activity (New, Active, At-Risk)
+	•	NPS / Customer Feedback Summary
+	•	Lifetime Value / High-Value Cohort Card
+
+⸻
+
+3. Recent Activity Feed (Sidebar or Scrollable Section)
+	•	Show real-time updates from across modules
+	•	Include filter: All | Finance | Ops | Marketing | Partner
+	•	Example: “New SOP created by user,” “Campaign launched,” “New investor added”
+
+⸻
+
+4. Quick Actions Panel (Floating Button or Bottom Section)
+	•	“Create SOP”
+	•	“Add Campaign”
+	•	“Run Valuation Report”
+	•	“Upload Investor Update”
+	•	“Send Digest”
+
+⸻
+
+STYLE & FUNCTIONALITY REQUIREMENTS
+	•	Use responsive grid (2–3 columns on desktop, stack on mobile)
+	•	TailwindCSS styling preferred
+	•	Consistent spacing, hover effects, and modern shadows
+	•	Animate metric numbers on load for modern feel
+	•	Use icons + tooltips on all summary cards
+	•	Keep light/dark mode compatibility
+	•	All cards must be clickable and route to deeper modules
+
+⸻
+
+NOTES
+	•	Do not remove any current homepage functionality — only restructure and polish it
+	•	This homepage should feel like a founder’s control panel — instantly useful, visually inspiring, and a joy to return to daily
+	•	Match design language and quality to platforms like Notion, Stripe, Monday.com, and ClickUp

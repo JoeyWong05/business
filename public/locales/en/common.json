@@ -1,0 +1,146 @@
+{
+  "app": {
+    "name": "DMPHQ",
+    "tagline": "Business Execution System"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "operations": "Operations",
+    "brandAssets": "Brand Assets",
+    "financials": "Financials",
+    "marketing": "Marketing",
+    "analytics": "Analytics",
+    "people": "People",
+    "tools": "Tools",
+    "subscription": "Subscription",
+    "settings": "Settings",
+    "partnerPortal": "Partner Portal",
+    "printOnDemand": "Print On Demand",
+    "projects": "Projects",
+    "valuations": "Valuations",
+    "agencyKiller": "Agency Killer"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "noResults": "No results found",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "actions": "Actions",
+    "selectAll": "Select All",
+    "deselectAll": "Deselect All",
+    "viewAll": "View All",
+    "viewMore": "View More",
+    "close": "Close"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "overview": "Overview",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions",
+    "insights": "Insights",
+    "companyHealth": "Company Health"
+  },
+  "operations": {
+    "title": "Operations Dashboard",
+    "metrics": "Key Metrics",
+    "processes": "Business Processes",
+    "costTracking": "Cost Tracking",
+    "projectManagement": "Project Management",
+    "automationScore": "Automation Score"
+  },
+  "hr": {
+    "title": "HR Dashboard",
+    "trainingHub": "Training Hub",
+    "trainingHubDescription": "Access training courses, resources, and upcoming events",
+    "hiringCenter": "Hiring Center",
+    "hiringCenterDescription": "Manage job postings, applications, and candidate interviews",
+    "employeeDirectory": "Employee Directory",
+    "employeeDirectoryDescription": "Browse and search employee profiles and contact information",
+    "addTrainingResource": "Add Training Resource",
+    "courses": "Courses",
+    "resources": "Resources",
+    "events": "Events"
+  },
+  "printOnDemand": {
+    "title": "Print On Demand",
+    "productCatalog": "Product Catalog",
+    "myStore": "My Store",
+    "myDesigns": "My Designs",
+    "orders": "Orders",
+    "howItWorks": "How It Works"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register",
+    "forgotPassword": "Forgot Password",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "rememberMe": "Remember Me"
+  },
+  "user": {
+    "profile": "Profile",
+    "settings": "Settings",
+    "notifications": "Notifications",
+    "language": "Language",
+    "theme": "Theme",
+    "activity": "Activity",
+    "preferences": "Preferences"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllAsRead": "Mark All as Read",
+    "clearAll": "Clear All",
+    "new": "New",
+    "earlier": "Earlier"
+  },
+  "marketing": {
+    "title": "Marketing Dashboard",
+    "campaigns": "Campaigns",
+    "socialMedia": "Social Media",
+    "emailMarketing": "Email Marketing",
+    "seoIntelligence": "SEO Intelligence",
+    "analytics": "Analytics",
+    "automation": "Automation",
+    "contentCalendar": "Content Calendar",
+    "platformIntegrations": {
+      "klaviyo": "Klaviyo",
+      "mailchimp": "MailChimp",
+      "sendlane": "SendLane",
+      "convertkit": "ConvertKit"
+    }
+  },
+  "agencyKiller": {
+    "title": "Agency Killer",
+    "description": "AI-powered marketing agency tools",
+    "copyGenerator": "Copy Generator",
+    "seoToolkit": "SEO Toolkit",
+    "adCampaignBuilder": "Ad Campaign Builder",
+    "marketingFunnelBuilder": "Marketing Funnel Builder",
+    "performanceSimulator": "Performance Simulator",
+    "generateContent": "Generate Content",
+    "analyzeWebsite": "Analyze Website",
+    "createCampaign": "Create Campaign"
+  },
+  "languages": {
+    "en": "English",
+    "es": "Spanish",
+    "vi": "Vietnamese",
+    "th": "Thai",
+    "zh": "Chinese",
+    "pt": "Portuguese",
+    "ja": "Japanese",
+    "de": "German",
+    "fr": "French"
+  }
+}

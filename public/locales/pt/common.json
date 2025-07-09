@@ -1,0 +1,105 @@
+{
+  "app": {
+    "name": "DMPHQ",
+    "tagline": "Sistema de Execução de Negócios"
+  },
+  "menu": {
+    "dashboard": "Painel",
+    "operations": "Operações",
+    "brandAssets": "Ativos da Marca",
+    "financials": "Finanças",
+    "marketing": "Marketing",
+    "analytics": "Análises",
+    "people": "Pessoas",
+    "tools": "Ferramentas",
+    "subscription": "Assinatura",
+    "settings": "Configurações",
+    "partnerPortal": "Portal de Parceiros",
+    "printOnDemand": "Impressão Sob Demanda",
+    "projects": "Projetos",
+    "valuations": "Avaliações",
+    "agencyKiller": "Substituto de Agência"
+  },
+  "common": {
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "create": "Criar",
+    "search": "Pesquisar",
+    "filter": "Filtrar",
+    "loading": "Carregando...",
+    "noResults": "Nenhum resultado encontrado",
+    "back": "Voltar",
+    "next": "Próximo",
+    "submit": "Enviar",
+    "confirm": "Confirmar",
+    "actions": "Ações",
+    "selectAll": "Selecionar Tudo",
+    "deselectAll": "Desmarcar Tudo",
+    "viewAll": "Ver Tudo",
+    "viewMore": "Ver Mais",
+    "close": "Fechar"
+  },
+  "dashboard": {
+    "title": "Painel",
+    "overview": "Visão Geral",
+    "recentActivity": "Atividade Recente",
+    "quickActions": "Ações Rápidas",
+    "insights": "Insights",
+    "companyHealth": "Saúde da Empresa"
+  },
+  "operations": {
+    "title": "Painel de Operações",
+    "metrics": "Métricas Chave",
+    "processes": "Processos de Negócios",
+    "costTracking": "Acompanhamento de Custos",
+    "projectManagement": "Gestão de Projetos",
+    "automationScore": "Pontuação de Automação"
+  },
+  "printOnDemand": {
+    "title": "Impressão Sob Demanda",
+    "productCatalog": "Catálogo de Produtos",
+    "myStore": "Minha Loja",
+    "myDesigns": "Meus Designs",
+    "orders": "Pedidos",
+    "howItWorks": "Como Funciona"
+  },
+  "auth": {
+    "login": "Entrar",
+    "logout": "Sair",
+    "register": "Registrar",
+    "forgotPassword": "Esqueci a Senha",
+    "email": "Email",
+    "password": "Senha",
+    "username": "Nome de Usuário",
+    "rememberMe": "Lembrar-me"
+  },
+  "user": {
+    "profile": "Perfil",
+    "settings": "Configurações",
+    "notifications": "Notificações",
+    "language": "Idioma",
+    "theme": "Tema",
+    "activity": "Atividade",
+    "preferences": "Preferências"
+  },
+  "notifications": {
+    "title": "Notificações",
+    "markAllAsRead": "Marcar Todas como Lidas",
+    "clearAll": "Limpar Todas",
+    "new": "Novo",
+    "earlier": "Anterior"
+  },
+  "languages": {
+    "en": "Inglês",
+    "es": "Espanhol",
+    "vi": "Vietnamita",
+    "th": "Tailandês",
+    "zh": "Chinês",
+    "pt": "Português",
+    "ja": "Japonês",
+    "de": "Alemão",
+    "fr": "Francês"
+  }
+}

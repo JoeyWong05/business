@@ -1,0 +1,48 @@
+Fix All Links, Routes, and Menu Items Across DMPHQ
+
+Please audit and repair all broken or incomplete links, routes, and page loads across the DMPHQ app. The goal is to ensure a seamless, launch-ready experience across the sidebar, top nav, homepage, and footer. All links must route to actual working pages, even if using placeholder content.
+	1.	Fix Sidebar Navigation
+
+	•	Audit each sidebar item (including sub-items like “Operations” and “Operations Dashboard”)
+	•	Remove or replace broken links that cause errors or do not load
+	•	Ensure every item routes to a working page using the appropriate React router logic
+	•	If necessary, rebuild the “Operations Dashboard” from scratch and route /operations-dashboard correctly
+
+	2.	Fix Header Links
+
+	•	Ensure all header dropdown items route to the correct pages
+	•	Add placeholder components/pages where missing
+	•	Test on mobile and desktop views
+
+	3.	Fix Footer Links
+
+	•	About Us → /about
+	•	Partners → /partners
+	•	Help / Support → /help
+	•	Privacy Policy → /privacy
+	•	Terms → /terms
+	•	Add any missing placeholder pages with a basic heading and text like “This page is under construction”
+
+	4.	Create or Rebuild Broken Pages
+
+	•	For any routes like /operations-dashboard that never worked, rebuild the page using a clean layout and placeholder data if needed
+	•	Use TailwindCSS for consistent layout and spacing
+	•	Ensure demo mode is supported (use mock cards, stats, etc.)
+
+	5.	Verify All Links
+
+	•	Test every link on:
+	•	Sidebar
+	•	Header nav
+	•	Footer
+	•	Homepage cards
+	•	All buttons should lead to working routes with no visual or logic errors
+	•	Add 404 handling or fallback pages for bad routes (optional)
+
+	6.	Final Touches
+
+	•	Add loading states if routes take more than a second
+	•	Add hover and active states for all menu items and links
+	•	Ensure full mobile responsiveness
+
+Once complete, the app should behave like a polished, enterprise-grade SaaS product where every user interaction results in a real page or module, not an error or blank space.

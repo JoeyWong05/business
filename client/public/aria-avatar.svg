@@ -1,0 +1,43 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient background circle -->
+  <circle cx="100" cy="100" r="100" fill="url(#paint0_linear)" />
+  
+  <!-- Brain pattern -->
+  <path d="M100 50C89.5 50 81 58.5 81 69C81 74.5 83.5 79.5 87.5 82.5C84.5 85.5 82.5 89.5 82.5 94C82.5 103 89.5 110 98.5 110H101.5C110.5 110 117.5 103 117.5 94C117.5 89.5 115.5 85.5 112.5 82.5C116.5 79.5 119 74.5 119 69C119 58.5 110.5 50 100 50Z" fill="white" fill-opacity="0.9" />
+  
+  <!-- Circuit lines -->
+  <path d="M65 90H40" stroke="white" stroke-width="2" stroke-linecap="round" />
+  <path d="M65 110H35" stroke="white" stroke-width="2" stroke-linecap="round" />
+  <path d="M65 130H45" stroke="white" stroke-width="2" stroke-linecap="round" />
+  
+  <path d="M135 90H160" stroke="white" stroke-width="2" stroke-linecap="round" />
+  <path d="M135 110H165" stroke="white" stroke-width="2" stroke-linecap="round" />
+  <path d="M135 130H155" stroke="white" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Connection dots -->
+  <circle cx="65" cy="90" r="4" fill="white" />
+  <circle cx="65" cy="110" r="4" fill="white" />
+  <circle cx="65" cy="130" r="4" fill="white" />
+  
+  <circle cx="135" cy="90" r="4" fill="white" />
+  <circle cx="135" cy="110" r="4" fill="white" />
+  <circle cx="135" cy="130" r="4" fill="white" />
+  
+  <!-- Sparkles -->
+  <path d="M100 25V15" stroke="white" stroke-width="2" stroke-linecap="round" />
+  <path d="M85 30L80 20" stroke="white" stroke-width="2" stroke-linecap="round" />
+  <path d="M115 30L120 20" stroke="white" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Sound waves -->
+  <path d="M70 150C80 140 120 140 130 150" stroke="white" stroke-width="2" stroke-linecap="round" />
+  <path d="M60 165C80 150 120 150 140 165" stroke="white" stroke-width="2" stroke-linecap="round" />
+  <path d="M50 180C80 160 120 160 150 180" stroke="white" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" />
+      <stop offset="1" stop-color="#3B82F6" />
+    </linearGradient>
+  </defs>
+</svg>

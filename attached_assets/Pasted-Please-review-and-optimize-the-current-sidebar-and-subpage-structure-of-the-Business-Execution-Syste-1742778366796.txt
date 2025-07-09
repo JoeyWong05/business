@@ -1,0 +1,69 @@
+Please review and optimize the current sidebar and subpage structure of the Business Execution System to ensure it is clean, efficient, and enterprise-ready while still supporting the full depth that founders and operators require.
+
+⸻
+
+1. Sidebar Optimization
+	•	Keep the current structure with icons and categories (FOMSC, Legal, Partner Portal, Strategy)
+	•	Ensure sidebar is:
+	•	Sticky on desktop
+	•	Collapsible on mobile
+	•	Highlighting the active section
+	•	Group sections logically to reduce overwhelm
+
+⸻
+
+2. Subpage Restructure Plan
+
+Finance
+	•	Keep: Valuation
+	•	Merge: Forecast and P&L into a new subpage: Financial Overview with tabs or sections
+
+Operations
+	•	Keep: SOPs
+	•	Merge: Automation Score and Activity Log into Ops Insights page
+
+Marketing
+	•	Keep: Campaigns
+	•	Merge: SEO and Ad Performance into one Marketing Analytics page with tabbed view
+
+Sales
+	•	Keep: Pipeline
+	•	Merge: Orders and Conversion Funnel into one Sales Metrics subpage with tabs
+
+Customer
+	•	Keep: CRM
+	•	Merge: Feedback, NPS, and Segments into one Customer Health page with filter options
+
+Partner Portal
+	•	Keep as one page but display Cap Table, Updates, and Stakeholder Summary as sections or cards on a single Investor View page
+
+Strategy
+	•	Merge: Health Score, Goals, and North Star Metrics into a single Strategy Dashboard
+
+Legal
+	•	Keep as-is
+	•	Add document upload, checklist, and compliance progress indicator
+
+⸻
+
+3. Internal Page Structure
+	•	Use tabs, collapsible sections, or accordion UIs to break up content within each combined page
+	•	Include:
+	•	Clickable action buttons (e.g., “Create SOP”, “Add Campaign”)
+	•	Filters (e.g., “Last 30 days”, “By platform”)
+	•	Progress indicators or charts for visual feedback
+
+⸻
+
+4. General UX Enhancements
+	•	Add breadcrumb trail or back buttons inside subpages
+	•	Include tooltips or hover info for icons
+	•	Use consistent spacing, card sizes, font styles across all pages
+	•	Ensure mobile responsiveness throughout
+
+⸻
+
+5. Optional Features
+	•	Role-based visibility (Admin vs Partner)
+	•	Demo mode support with mock data inside each subpage
+	•	Export buttons for Valuation, Campaigns, and Financial sections

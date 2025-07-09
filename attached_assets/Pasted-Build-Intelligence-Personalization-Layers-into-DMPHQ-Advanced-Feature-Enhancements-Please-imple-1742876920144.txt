@@ -1,0 +1,62 @@
+Build Intelligence + Personalization Layers into DMPHQ (Advanced Feature Enhancements)
+
+Please implement two key enhancements across DMPHQ to elevate the platform into a fully personalized, AI-enhanced founder operating system. These upgrades must be added inside existing pages and layout (do not create new routes) and must support Demo Mode with mock data. Use TailwindCSS, and make all features responsive.
+
+⸻
+
+Part 1: Intelligence Layer (AI-Driven Insights & Weekly Recaps)
+	1.	Smart Recommendations Panel
+
+	•	Add to homepage or sidebar as a collapsible widget or card
+	•	Pull from recent activity and mock analytics across modules
+	•	Show 2–3 suggestions like:
+	•	“Your ad CTR is down 18% — try improving the headline”
+	•	“You haven’t launched a campaign in 2 weeks — want to start one?”
+	•	“Revenue is up 12% — great work. Consider setting a new forecast goal.”
+
+	2.	AI-Generated Weekly Recap
+
+	•	Generate a summary paragraph from mock data (revenue, leads, SOPs, automation)
+	•	Example:
+“You increased sales by 21% last week. CRM leads doubled thanks to 2 new campaigns. Automation score improved to 78%.”
+	•	Add “Export PDF” and “Send Recap” buttons
+
+	3.	Predictive Insights Panel (Optional)
+
+	•	“If this trend continues, you’ll complete 92% of all tasks next month.”
+	•	Display mini graphs or trend lines from demo data
+
+⸻
+
+Part 2: Personalization Layer (Founder-Specific UX)
+	4.	Customizable Homepage Widgets
+
+	•	Let users rearrange homepage blocks or pin key modules (Finance, CRM, SOPs)
+	•	Add button: “Customize My Dashboard”
+	•	Use drag-and-drop or simple toggle UI
+
+	5.	Profile-Based Views
+
+	•	Add user role logic:
+	•	Founder sees Finance, Strategy, CRM
+	•	VA sees Tasks, SOPs, VA Dashboard
+	•	Operator sees Projects, Marketing, Automations
+	•	Use local state for now or mock login roles in Demo Mode
+
+	6.	Brand Switcher (Optional)
+
+	•	Add dropdown in header: “Select Brand”
+	•	Show mock brands (Mystery Hype, AlcoEaze, DMP)
+	•	When switching, change demo data dynamically (filtered by brand)
+
+	7.	Quick Action Bar
+
+	•	Add floating action bar on all pages with buttons:
+	•	“+ New Task”, “+ Launch Campaign”, “+ Create SOP”, “+ Add Lead”
+	•	Keep sticky or floating at bottom of screen (mobile-friendly)
+
+⸻
+
+Demo Mode Support
+	•	All intelligence insights and customization features must show working behavior in Demo Mode using pre-filled content
+	•	No real data or integration is required for now — focus on UX, interaction, and polish

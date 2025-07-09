@@ -1,0 +1,81 @@
+Build Advanced Modules for DMPHQ in Prioritized Order (Starting with VA Command Center)
+
+Please implement the following five advanced modules inside DMPHQ to elevate the platform into a full Founder Operating System. These modules must be mobile-friendly, modular, and consistent with DMPHQ’s current design using TailwindCSS. All features must support Demo Mode with mock data if real integrations are not connected.
+
+⸻
+
+1. VA Command Center (Highest Priority)
+	•	Add a sidebar section titled “VA Center” or place this as a tab under Operations.
+	•	Features:
+	•	List of assigned VAs (demo data if needed)
+	•	Tasks assigned to each VA (show filters: All, Due Today, Overdue)
+	•	Tasks completed this week per VA
+	•	“Today’s Tasks” view per VA
+	•	Section for overdue and blocked items
+	•	Include an AI assistant panel that generates suggested daily tasks for the VA based on activity across modules
+	•	Add role-based toggles: Admin View vs VA View
+	•	Include a “Send Daily Summary” feature (email or Slack-ready)
+
+⸻
+
+2. Automation Score 2.0 (Next Priority)
+	•	Enhance the current Automation Score system
+	•	Features:
+	•	Show Automation Score per module (Finance, CRM, Marketing, etc.)
+	•	List what’s automated vs manual (checklist or progress bars)
+	•	AI Suggestions Panel:
+	•	“Automate SOP check-ins with Slack”
+	•	“Connect Klaviyo to auto-track opens”
+	•	Visual: donut chart or progress ring per module
+	•	Include “Next Automation Step” button
+	•	Add Demo Mode values and recommendations
+
+⸻
+
+3. Weekly Founder Digest Generator
+	•	Add a new section called “Weekly Digest” or place in homepage dropdown
+	•	Features:
+	•	Summary of revenue, SOPs completed, campaigns, customer feedback
+	•	Weekly trend highlights (e.g., “Revenue +17% from last week”)
+	•	AI Summary text block
+	•	Buttons:
+	•	“Export Digest as PDF”
+	•	“Email Digest to Founders”
+	•	Include option to preview and send automatically every Monday
+
+⸻
+
+4. Brand Asset Hub + AI Creative Brief Generator
+	•	Add this as a new tab under the Marketing module
+	•	Features:
+	•	Upload & organize assets: logos, graphics, fonts, product photos
+	•	Tag by campaign or brand
+	•	Add AI Creative Brief Generator:
+	•	Input: Campaign name, target audience
+	•	Output: structured brief (tone, deliverables, suggested channels)
+	•	Button: “Export Creative Brief” (PDF or share link)
+
+⸻
+
+5. Launch Library (Template Hub)
+	•	Add a new tab under Operations or Marketing called “Launch Templates”
+	•	Features:
+	•	Template types: Product Launch, Campaign, SOP, Sale Event
+	•	Each template includes:
+	•	Task list
+	•	Timeline
+	•	Placeholder copy or campaign notes
+	•	“Apply Template” button copies it into the user’s Task Manager
+
+⸻
+
+Design & UX Requirements:
+	•	Use TailwindCSS and follow current DMPHQ card layout, spacing, and typography
+	•	Ensure all modules are fully responsive (mobile/tablet/desktop)
+	•	Use tabs, collapsibles, and modals where needed
+	•	Keep sidebar clean; add only necessary top-level routes or place inside existing tabs
+	•	Support Demo Mode: prefill each module with 3–5 realistic examples
+
+⸻
+
+Once complete, these five modules will unlock a new level of utility, automation, and execution for founders, operators, and teams — making DMPHQ a complete, scalable business operating system.

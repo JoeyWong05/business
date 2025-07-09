@@ -1,0 +1,81 @@
+Please build a new module inside DMPHQ called “Projects” or “Task Manager” that allows users to create, manage, and track tasks and projects. This should fully replace tools like Asana, Trello, and Basecamp. It must include an AI Assistant for generating tasks, and it should be fully responsive for mobile, styled using TailwindCSS, and integrated into the existing DMPHQ layout.
+
+⸻
+
+1. SIDEBAR PLACEMENT
+	•	Add a new top-level item to the sidebar called: Projects
+	•	Icon: Clipboard list or Kanban-style board icon
+	•	Route: /projects-dashboard or /task-manager
+	•	Clicking this should open the full Project Management page with both list and Kanban views
+
+⸻
+
+2. HOMEPAGE CARD PLACEMENT
+	•	Add a new card on the homepage called: Open Projects
+	•	Card should display:
+	•	Total active projects (e.g., “3 Active Projects”)
+	•	Tasks due today (e.g., “4 Tasks Due Today”)
+	•	Clicking this card should route to /projects-dashboard
+
+⸻
+
+3. FEATURE SET (INSIDE PROJECT MANAGER PAGE)
+	1.	Create Task Panel
+
+	•	Fields: Title, Assigned To, Due Date, Priority, Related Module, Notes
+	•	“Create Task” adds to task list or Kanban view
+
+	2.	Task Views
+
+	•	Toggle between:
+	•	List view (with filters by status, owner, module)
+	•	Kanban view (To Do, In Progress, Done – draggable cards)
+
+	3.	AI Assistant (Built-In)
+
+	•	Input field: “What do you need help getting done?”
+	•	Output:
+	•	Task title
+	•	Subtasks/checklist
+	•	Suggested owner, priority, due date
+	•	Include “Add All to Tasks” button
+
+	4.	Project View (Optional Tab)
+
+	•	Create projects with names, deadlines, task counts
+	•	Show % complete
+	•	Allow expanding to view all tasks under a project
+
+	5.	Task Status & Reminders
+
+	•	Highlight overdue tasks in red
+	•	Show badge for tasks due today or this week
+
+⸻
+
+4. MOBILE RESPONSIVENESS REQUIREMENTS
+	•	Prioritize List view as the default on mobile
+	•	Stack input fields and task cards vertically
+	•	Ensure buttons are touch-friendly with padding
+	•	Keep text readable at mobile breakpoints
+	•	Show condensed summary (e.g., “Today: 4 tasks”) at top
+
+⸻
+
+5. DEMO MODE COMPATIBILITY
+	•	When Demo Mode is enabled:
+	•	Preload 3 demo projects
+	•	Add 10 demo tasks with different owners and modules
+	•	Highlight 2 tasks due today and 1 overdue
+
+⸻
+
+6. STYLE + TECHNICAL REQUIREMENTS
+	•	Use TailwindCSS for all styling
+	•	Match existing DMPHQ component spacing, card layout, and shadows
+	•	Ensure all task and project data is saved locally or mocked until backend is connected
+	•	Maintain theme consistency (dark mode if available)
+
+⸻
+
+Once complete, DMPHQ will feature a clean, AI-powered, mobile-ready Project Management module — making it a true all-in-one business OS that replaces external 

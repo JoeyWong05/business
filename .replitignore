@@ -1,0 +1,28 @@
+# Node modules and cache
+node_modules/
+.cache/
+
+# OS files
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Build files
+dist/
+build/
+*.map
+
+# Replit specific
+replit.nix
+.breakpoints
+.replit*.lock
+.config
+
+# Large assets and unnecessary test files
+*.test.tsx
+*.test.ts
+*.spec.tsx
+*.spec.ts
+*.mp4
+*.mov

@@ -1,0 +1,101 @@
+{
+  "app": {
+    "name": "DMPHQ",
+    "tagline": "商业执行系统"
+  },
+  "menu": {
+    "dashboard": "仪表板",
+    "operations": "运营",
+    "brandAssets": "品牌资产",
+    "financials": "财务",
+    "marketing": "营销",
+    "analytics": "分析",
+    "people": "人员",
+    "tools": "工具",
+    "subscription": "订阅",
+    "settings": "设置",
+    "partnerPortal": "合作伙伴门户",
+    "printOnDemand": "按需印刷",
+    "projects": "项目",
+    "valuations": "估值",
+    "agencyKiller": "代理终结者"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "create": "创建",
+    "search": "搜索",
+    "filter": "筛选",
+    "loading": "加载中...",
+    "noResults": "未找到结果",
+    "back": "返回",
+    "next": "下一步",
+    "submit": "提交",
+    "confirm": "确认",
+    "actions": "操作",
+    "selectAll": "全选",
+    "deselectAll": "取消全选",
+    "viewAll": "查看全部",
+    "viewMore": "查看更多",
+    "close": "关闭"
+  },
+  "dashboard": {
+    "title": "仪表板",
+    "overview": "概览",
+    "recentActivity": "最近活动",
+    "quickActions": "快速操作",
+    "insights": "洞察",
+    "companyHealth": "公司健康"
+  },
+  "operations": {
+    "title": "运营仪表板",
+    "metrics": "关键指标",
+    "processes": "业务流程",
+    "costTracking": "成本跟踪",
+    "projectManagement": "项目管理",
+    "automationScore": "自动化评分"
+  },
+  "printOnDemand": {
+    "title": "按需印刷",
+    "productCatalog": "产品目录",
+    "myStore": "我的商店",
+    "myDesigns": "我的设计",
+    "orders": "订单",
+    "howItWorks": "工作原理"
+  },
+  "auth": {
+    "login": "登录",
+    "logout": "登出",
+    "register": "注册",
+    "forgotPassword": "忘记密码",
+    "email": "电子邮件",
+    "password": "密码",
+    "username": "用户名",
+    "rememberMe": "记住我"
+  },
+  "user": {
+    "profile": "个人资料",
+    "settings": "设置",
+    "notifications": "通知",
+    "language": "语言",
+    "theme": "主题",
+    "activity": "活动",
+    "preferences": "偏好"
+  },
+  "notifications": {
+    "title": "通知",
+    "markAllAsRead": "标记所有为已读",
+    "clearAll": "清除全部",
+    "new": "新通知",
+    "earlier": "较早"
+  },
+  "languages": {
+    "en": "英语",
+    "es": "西班牙语",
+    "vi": "越南语",
+    "th": "泰语",
+    "zh": "中文"
+  }
+}

@@ -1,0 +1,148 @@
+Finalize and Fully Build All Existing Tools in DMPHQ (With Direct Tool Comparisons)
+
+The app layout, pages, and navigation are already complete. Do not create any new routes or redesign the structure. Your task is to go into each existing tool/module and fully activate it so it works as a real business system — matching or exceeding the features of the SaaS tools it replaces.
+
+Each tool should use TailwindCSS, support demo mode, and be mobile responsive. Every feature must be interactive and functional — no placeholders, broken buttons, or empty views.
+
+⸻
+
+1. Project Manager (Replaces: Trello, ClickUp, Asana)
+	•	Complete task creation with title, assignee, module tag, due date
+	•	Kanban board must support drag-and-drop
+	•	List view must show all fields (title, status, due date, etc.)
+	•	AI Task Assistant: generate 3–5 tasks based on plain input
+	•	Buttons: “Create Task”, “Mark Complete”, “Edit Task” must all work
+
+⸻
+
+2. CRM (Replaces: HubSpot CRM, Pipedrive)
+	•	Table of customers with Name, Contact Info, Tags, Status, LTV
+	•	Filters by segment: VIP, At Risk, New
+	•	Inline editing of fields (status, notes, tag)
+	•	Add New Customer form must save and display new row
+
+⸻
+
+3. Email Campaign Tool (Replaces: Klaviyo, Mailchimp)
+	•	Subject line, message body, and audience segment dropdown
+	•	“Create Campaign” and “Send Test Email” buttons must function
+	•	Store and display past campaigns with open/click %
+	•	Include AI-generated subject line suggestions
+
+⸻
+
+4. SOP Builder (Replaces: Notion, Process Street)
+	•	Create SOPs with step-by-step checklist, owner, and due date
+	•	AI SOP Generator: input a goal → output full SOP steps
+	•	Steps must be editable and markable as complete
+	•	Buttons to export, assign, or duplicate SOPs must work
+
+⸻
+
+5. Sales Funnel (Replaces: Salesforce pipeline, Close.io)
+	•	Show stages: New → Contacted → Demo → Closed
+	•	Add leads manually with owner, value, and notes
+	•	Drag cards between stages
+	•	“Close Deal” button should move lead to Closed and log it
+
+⸻
+
+6. Agency Killer: Copy Tool (Replaces: Copy.ai, Jasper)
+	•	Input: product + goal → output ad copy, email, landing page copy
+	•	Tone selector: Bold, Friendly, Luxury, etc.
+	•	Show formatted copy blocks with “Copy to Clipboard” buttons
+
+⸻
+
+7. Agency Killer: Ad Builder (Replaces: Meta Ads Manager, TikTok Ads UI)
+	•	Input: product + goal → output suggested audience, ad copy, platform
+	•	Optional budget field
+	•	Exportable campaign brief (PDF or clipboard)
+
+⸻
+
+8. Agency Killer: SEO Toolkit (Replaces: Ahrefs, SEMrush)
+	•	Input keyword or topic → output 10 SEO keywords with volume + difficulty
+	•	Display SEO audit checklist based on input (headers, mobile, etc.)
+	•	Optional AI meta description generator
+
+⸻
+
+9. Agency Killer: Funnel Generator (Replaces: Clickfunnels)
+	•	Choose funnel type (lead gen, sale, preorder)
+	•	Output funnel steps in visual layout
+	•	“Apply Funnel to Project Manager” button must generate real tasks
+
+⸻
+
+10. Brand Asset Hub (Replaces: Dropbox + Creative Briefs)
+	•	Upload logos, files, product photos
+	•	Organize by brand/campaign
+	•	Creative brief generator: input campaign → output copy specs + asset list
+	•	“Export Brief” or “Copy Brief to Clipboard” button
+
+⸻
+
+11. Launch Library (Replaces: Internal SOP banks / playbooks)
+	•	Show templates: Product Launch, Black Friday, Email Drip, etc.
+	•	Preview template task list
+	•	“Apply to Project” button must add tasks to Project Manager
+
+⸻
+
+12. VA Command Center (Replaces: Internal ops dashboards + ClickUp)
+	•	Show list of VAs, their assigned tasks, and statuses
+	•	“Assign Task to VA” button must create and display task
+	•	AI “Suggested Tasks for Today” must generate demo content
+	•	Toggle between Admin View and VA View must work
+
+⸻
+
+13. Automation Score 2.0 (Replaces: Internal audit tools + Zapier dashboards)
+	•	Show automation % by module (Finance, CRM, Marketing, etc.)
+	•	List automated vs manual actions
+	•	Recommend next automations (manual or AI-generated)
+	•	Include progress ring and “Improve Score” suggestions
+
+⸻
+
+14. Finance Dashboard (Replaces: Google Sheets + Live dashboards)
+	•	Valuation calculator (revenue x multiple)
+	•	Forecast chart with 12-month projection
+	•	Editable P&L table (mock values fine)
+	•	“Export Finance Summary” button must work
+
+⸻
+
+15. Strategy & Health (Replaces: Internal dashboards / business coaches)
+	•	Company Health Score (0–100%)
+	•	Track North Star metrics
+	•	AI-generated weekly suggestions to improve
+	•	Goal Tracker with milestones and due dates
+
+⸻
+
+16. Weekly Digest (Replaces: Manual weekly summaries / ops updates)
+	•	Generate weekly digest with top metrics, tasks, growth, campaign activity
+	•	AI summary headline
+	•	“Export PDF” and “Send to Email” buttons must work
+	•	Use mock data if no real data is available
+
+⸻
+
+17. Footer and Header Navigation
+	•	All links in header/footer must route to working pages
+	•	Create basic About, Privacy, Terms, Help, etc. pages if missing
+	•	Fix any white blocks or layout bugs in footer
+	•	Ensure mobile collapses work for menu links
+
+⸻
+
+18. Demo Mode Support (Across All Tools)
+	•	Every module should load mock/demo data in demo mode
+	•	Disable write/save actions if demo mode is active
+	•	Include badge or message: “You’re in Demo Mode”
+
+⸻
+
+Once complete, DMPHQ should be fully interactive, launch-ready, and usable by founders, operators, VAs, agencies, and investors. Every feature must work within existing pages and layout. No new routes or major UI changes should be introduced.

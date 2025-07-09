@@ -1,0 +1,105 @@
+{
+  "app": {
+    "name": "DMPHQ",
+    "tagline": "Système d'Exécution d'Entreprise"
+  },
+  "menu": {
+    "dashboard": "Tableau de Bord",
+    "operations": "Opérations",
+    "brandAssets": "Actifs de Marque",
+    "financials": "Finances",
+    "marketing": "Marketing",
+    "analytics": "Analyses",
+    "people": "Personnes",
+    "tools": "Outils",
+    "subscription": "Abonnement",
+    "settings": "Paramètres",
+    "partnerPortal": "Portail Partenaire",
+    "printOnDemand": "Impression à la Demande",
+    "projects": "Projets",
+    "valuations": "Évaluations",
+    "agencyKiller": "Substitut d'Agence"
+  },
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "loading": "Chargement...",
+    "noResults": "Aucun résultat trouvé",
+    "back": "Retour",
+    "next": "Suivant",
+    "submit": "Soumettre",
+    "confirm": "Confirmer",
+    "actions": "Actions",
+    "selectAll": "Sélectionner Tout",
+    "deselectAll": "Désélectionner Tout",
+    "viewAll": "Voir Tout",
+    "viewMore": "Voir Plus",
+    "close": "Fermer"
+  },
+  "dashboard": {
+    "title": "Tableau de Bord",
+    "overview": "Vue d'Ensemble",
+    "recentActivity": "Activité Récente",
+    "quickActions": "Actions Rapides",
+    "insights": "Perspectives",
+    "companyHealth": "Santé de l'Entreprise"
+  },
+  "operations": {
+    "title": "Tableau de Bord des Opérations",
+    "metrics": "Métriques Clés",
+    "processes": "Processus d'Affaires",
+    "costTracking": "Suivi des Coûts",
+    "projectManagement": "Gestion de Projet",
+    "automationScore": "Score d'Automatisation"
+  },
+  "printOnDemand": {
+    "title": "Impression à la Demande",
+    "productCatalog": "Catalogue de Produits",
+    "myStore": "Ma Boutique",
+    "myDesigns": "Mes Designs",
+    "orders": "Commandes",
+    "howItWorks": "Comment Ça Marche"
+  },
+  "auth": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "register": "S'inscrire",
+    "forgotPassword": "Mot de Passe Oublié",
+    "email": "Email",
+    "password": "Mot de Passe",
+    "username": "Nom d'Utilisateur",
+    "rememberMe": "Se Souvenir de Moi"
+  },
+  "user": {
+    "profile": "Profil",
+    "settings": "Paramètres",
+    "notifications": "Notifications",
+    "language": "Langue",
+    "theme": "Thème",
+    "activity": "Activité",
+    "preferences": "Préférences"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllAsRead": "Marquer Tout comme Lu",
+    "clearAll": "Tout Effacer",
+    "new": "Nouveau",
+    "earlier": "Plus Tôt"
+  },
+  "languages": {
+    "en": "Anglais",
+    "es": "Espagnol",
+    "vi": "Vietnamien",
+    "th": "Thaï",
+    "zh": "Chinois",
+    "pt": "Portugais",
+    "ja": "Japonais",
+    "de": "Allemand",
+    "fr": "Français"
+  }
+}

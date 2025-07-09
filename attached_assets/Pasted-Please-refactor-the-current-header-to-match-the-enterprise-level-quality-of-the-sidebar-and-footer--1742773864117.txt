@@ -1,0 +1,59 @@
+Please refactor the current header to match the enterprise-level quality of the sidebar and footer. The current logo/menu combination is confusing and lacks polish. The new header should be clean, intuitive, scalable, and feel like a premium SaaS experience, aligned with platforms like Notion, Stripe, ClickUp, and Linear.
+
+⸻
+
+HIGH-LEVEL GOALS
+	•	Fix the confusing menu/logo placement
+	•	Make the header useful, not just decorative
+	•	Add core elements like user profile, dark mode toggle, and company switcher
+	•	Ensure mobile responsiveness and role-based visibility
+
+⸻
+
+HEADER LAYOUT (Left to Right)
+	1.	Left Section
+	•	Replace the current logo/menu confusion with:
+	•	A clean logo or icon (just “DMP” in a bold font or stylized monogram is fine)
+	•	Company/business name (e.g., “Digital Merch Pros”)
+	•	If multi-company: add dropdown like ▼
+	2.	Center Section (Optional)
+	•	Current page title or navigation context:
+	•	“Dashboard”
+	•	“Marketing > Campaigns”
+	•	“Settings > API Keys”
+	3.	Right Section
+	•	[Search icon or input] (optional)
+	•	[Light/Dark mode toggle]
+	•	[Notifications bell with badge]
+	•	[Profile avatar dropdown]
+	•	My Profile
+	•	Settings
+	•	Help
+	•	Log Out
+	•	[Build/version badge] (small text, like v1.3.2 or “Updated Mar 2025”)
+
+⸻
+
+STYLE GUIDELINES
+	•	Use a light gray or white background, or match dark mode theme
+	•	Add subtle box shadow or background blur for depth
+	•	TailwindCSS recommended:
+	•	Height: h-16
+	•	Spacing: consistent px-4 or px-6
+	•	Flex layout with justify-between items-center
+	•	Font: Match your sidebar/footer
+	•	Icons: Use Lucide, Heroicons, or minimal SVGs for sharp look
+	•	Make sure header is sticky and doesn’t overlap content or sidebar
+
+⸻
+
+FUNCTIONALITY
+	•	Hide page title on mobile if space is tight
+	•	Make logo clickable to return to Dashboard
+	•	Use role-based visibility if needed (e.g., hide Settings for non-admins)
+	•	All dropdowns should animate smoothly
+	•	Ensure keyboard accessibility and aria-labels for buttons
+
+⸻
+
+This header should feel elegant, modern, and functional — not cluttered or confusing. It should feel like it belongs to a $100M SaaS company and match the visual clarity and strength of your new sidebar and footer.

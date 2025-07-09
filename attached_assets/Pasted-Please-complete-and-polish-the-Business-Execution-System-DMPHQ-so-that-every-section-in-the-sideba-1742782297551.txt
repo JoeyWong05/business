@@ -1,0 +1,96 @@
+Please complete and polish the Business Execution System (DMPHQ) so that every section in the sidebar routes to a fully functional, visually polished, and demo-ready page. The goal is to make this a world-class, viral-ready SaaS product for internal and external use, with no empty or weak modules.
+
+⸻
+
+Core Goals:
+	•	Every sidebar link must lead to a fully populated page
+	•	Each page must be interactive, professional, and styled like a modern SaaS tool
+	•	Include realistic demo data for all key modules
+	•	Ensure the system feels “ready to run a business” — or sell to founders
+
+⸻
+
+Section-by-Section Tasks
+
+1. Finance
+	•	Page: Financial Overview
+	•	Content:
+	•	Valuation Calculator (working)
+	•	Forecast Chart (with 12-month dummy data)
+	•	Profit & Loss Summary
+	•	Export PDF/CSV button
+
+2. Operations
+	•	Page: Operations Dashboard
+	•	Content:
+	•	SOP Library with 3 fake SOPs (title, owner, status)
+	•	Automation Score visual with AI suggestions
+	•	Recent Activity log with fake user actions
+
+3. Marketing
+	•	Page: Marketing Hub (use tabs or cards)
+	•	Tabs:
+	•	Campaigns: 3 dummy email/SMS campaigns with open/click data
+	•	SEO Tracker: 5 fake keywords, rank, volume, change %
+	•	Ads: 3 platforms (TikTok, Meta, Google) with Spend, CTR, ROAS
+	•	Add: “Create Campaign” button
+
+4. Sales
+	•	Page: Sales Dashboard
+	•	Content:
+	•	Pipeline (Kanban or column layout): New, Contacted, Closed
+	•	Orders Table (5 dummy sales)
+	•	Conversion Funnel visual
+
+5. Customer
+	•	Page: Customer Hub
+	•	Content:
+	•	CRM Table with 10 fake users (status, notes, LTV)
+	•	Segments (VIP, At Risk, New)
+	•	Feedback or NPS rating summary
+
+6. Partner / Investor Portal
+	•	Page: Investor View
+	•	Content:
+	•	Cap Table: pie chart + data table
+	•	Uploaded Pitch Decks (2 dummy files)
+	•	Stakeholder Value Card (“Your Stake: $1.2M”)
+	•	“Export Update” or “Send Digest” button
+
+7. Strategy
+	•	Page: Strategy Dashboard
+	•	Content:
+	•	Company Health Score (progress bar)
+	•	North Star Metrics
+	•	Quarterly Goals + Milestone tracker
+	•	Highlight Wins & Blockers section
+
+8. Legal
+	•	Page: Legal & Compliance
+	•	Content:
+	•	Checklist: LLC, EIN, Licenses, Contracts
+	•	Upload Area (PDFs)
+	•	Compliance progress bar
+
+⸻
+
+Demo Mode (Global)
+	•	Add “Start Demo Mode” toggle
+	•	Auto-populates all pages with realistic data
+	•	Mark data as “Demo” (badge or banner)
+	•	Disable edits in demo mode
+	•	Add option to reset demo state
+
+⸻
+
+Design Standards
+	•	Use cards, tables, and charts where applicable
+	•	Apply hover effects, icons, loading states
+	•	All pages should match the styling of the homepage, header, and sidebar
+	•	Ensure mobile responsiveness
+
+⸻
+
+Call-to-Action
+
+This system must feel like a $99–$299/month SaaS product. When a founder, partner, or investor logs in, each page should immediately deliver clarity, insight, and functionality

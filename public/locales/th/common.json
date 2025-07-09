@@ -1,0 +1,101 @@
+{
+  "app": {
+    "name": "DMPHQ",
+    "tagline": "ระบบการดำเนินธุรกิจ"
+  },
+  "menu": {
+    "dashboard": "แดชบอร์ด",
+    "operations": "การดำเนินงาน",
+    "brandAssets": "สินทรัพย์แบรนด์",
+    "financials": "การเงิน",
+    "marketing": "การตลาด",
+    "analytics": "การวิเคราะห์",
+    "people": "บุคลากร",
+    "tools": "เครื่องมือ",
+    "subscription": "การสมัครสมาชิก",
+    "settings": "การตั้งค่า",
+    "partnerPortal": "พอร์ทัลพาร์ทเนอร์",
+    "printOnDemand": "พิมพ์ตามความต้องการ",
+    "projects": "โครงการ",
+    "valuations": "การประเมินมูลค่า",
+    "agencyKiller": "ระบบทดแทนเอเจนซี่"
+  },
+  "common": {
+    "save": "บันทึก",
+    "cancel": "ยกเลิก",
+    "delete": "ลบ",
+    "edit": "แก้ไข",
+    "create": "สร้าง",
+    "search": "ค้นหา",
+    "filter": "กรอง",
+    "loading": "กำลังโหลด...",
+    "noResults": "ไม่พบผลลัพธ์",
+    "back": "ย้อนกลับ",
+    "next": "ถัดไป",
+    "submit": "ส่ง",
+    "confirm": "ยืนยัน",
+    "actions": "การดำเนินการ",
+    "selectAll": "เลือกทั้งหมด",
+    "deselectAll": "ยกเลิกการเลือกทั้งหมด",
+    "viewAll": "ดูทั้งหมด",
+    "viewMore": "ดูเพิ่มเติม",
+    "close": "ปิด"
+  },
+  "dashboard": {
+    "title": "แดชบอร์ด",
+    "overview": "ภาพรวม",
+    "recentActivity": "กิจกรรมล่าสุด",
+    "quickActions": "การดำเนินการด่วน",
+    "insights": "ข้อมูลเชิงลึก",
+    "companyHealth": "สุขภาพบริษัท"
+  },
+  "operations": {
+    "title": "แดชบอร์ดการดำเนินงาน",
+    "metrics": "ตัวชี้วัดหลัก",
+    "processes": "กระบวนการทางธุรกิจ",
+    "costTracking": "การติดตามต้นทุน",
+    "projectManagement": "การจัดการโครงการ",
+    "automationScore": "คะแนนการอัตโนมัติ"
+  },
+  "printOnDemand": {
+    "title": "พิมพ์ตามความต้องการ",
+    "productCatalog": "แคตตาล็อกสินค้า",
+    "myStore": "ร้านค้าของฉัน",
+    "myDesigns": "การออกแบบของฉัน",
+    "orders": "คำสั่งซื้อ",
+    "howItWorks": "วิธีการทำงาน"
+  },
+  "auth": {
+    "login": "เข้าสู่ระบบ",
+    "logout": "ออกจากระบบ",
+    "register": "ลงทะเบียน",
+    "forgotPassword": "ลืมรหัสผ่าน",
+    "email": "อีเมล",
+    "password": "รหัสผ่าน",
+    "username": "ชื่อผู้ใช้",
+    "rememberMe": "จดจำฉัน"
+  },
+  "user": {
+    "profile": "โปรไฟล์",
+    "settings": "การตั้งค่า",
+    "notifications": "การแจ้งเตือน",
+    "language": "ภาษา",
+    "theme": "ธีม",
+    "activity": "กิจกรรม",
+    "preferences": "การกำหนดค่า"
+  },
+  "notifications": {
+    "title": "การแจ้งเตือน",
+    "markAllAsRead": "ทำเครื่องหมายทั้งหมดว่าอ่านแล้ว",
+    "clearAll": "ล้างทั้งหมด",
+    "new": "ใหม่",
+    "earlier": "ก่อนหน้านี้"
+  },
+  "languages": {
+    "en": "อังกฤษ",
+    "es": "สเปน",
+    "vi": "เวียดนาม",
+    "th": "ไทย",
+    "zh": "จีน"
+  }
+}

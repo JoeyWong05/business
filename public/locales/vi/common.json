@@ -1,0 +1,101 @@
+{
+  "app": {
+    "name": "DMPHQ",
+    "tagline": "Hệ Thống Thực Thi Kinh Doanh"
+  },
+  "menu": {
+    "dashboard": "Bảng Điều Khiển",
+    "operations": "Hoạt Động",
+    "brandAssets": "Tài Sản Thương Hiệu",
+    "financials": "Tài Chính",
+    "marketing": "Tiếp Thị",
+    "analytics": "Phân Tích",
+    "people": "Nhân Sự",
+    "tools": "Công Cụ",
+    "subscription": "Đăng Ký",
+    "settings": "Cài Đặt",
+    "partnerPortal": "Cổng Đối Tác",
+    "printOnDemand": "In Theo Yêu Cầu",
+    "projects": "Dự Án",
+    "valuations": "Định Giá",
+    "agencyKiller": "Diệt Đại Lý"
+  },
+  "common": {
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Chỉnh Sửa",
+    "create": "Tạo",
+    "search": "Tìm Kiếm",
+    "filter": "Lọc",
+    "loading": "Đang tải...",
+    "noResults": "Không tìm thấy kết quả",
+    "back": "Quay Lại",
+    "next": "Tiếp Theo",
+    "submit": "Gửi",
+    "confirm": "Xác Nhận",
+    "actions": "Hành Động",
+    "selectAll": "Chọn Tất Cả",
+    "deselectAll": "Bỏ Chọn Tất Cả",
+    "viewAll": "Xem Tất Cả",
+    "viewMore": "Xem Thêm",
+    "close": "Đóng"
+  },
+  "dashboard": {
+    "title": "Bảng Điều Khiển",
+    "overview": "Tổng Quan",
+    "recentActivity": "Hoạt Động Gần Đây",
+    "quickActions": "Hành Động Nhanh",
+    "insights": "Thông Tin Chi Tiết",
+    "companyHealth": "Sức Khỏe Công Ty"
+  },
+  "operations": {
+    "title": "Bảng Điều Khiển Hoạt Động",
+    "metrics": "Số Liệu Chính",
+    "processes": "Quy Trình Kinh Doanh",
+    "costTracking": "Theo Dõi Chi Phí",
+    "projectManagement": "Quản Lý Dự Án",
+    "automationScore": "Điểm Tự Động Hóa"
+  },
+  "printOnDemand": {
+    "title": "In Theo Yêu Cầu",
+    "productCatalog": "Danh Mục Sản Phẩm",
+    "myStore": "Cửa Hàng Của Tôi",
+    "myDesigns": "Thiết Kế Của Tôi",
+    "orders": "Đơn Hàng",
+    "howItWorks": "Cách Thức Hoạt Động"
+  },
+  "auth": {
+    "login": "Đăng Nhập",
+    "logout": "Đăng Xuất",
+    "register": "Đăng Ký",
+    "forgotPassword": "Quên Mật Khẩu",
+    "email": "Email",
+    "password": "Mật Khẩu",
+    "username": "Tên Người Dùng",
+    "rememberMe": "Ghi Nhớ Tôi"
+  },
+  "user": {
+    "profile": "Hồ Sơ",
+    "settings": "Cài Đặt",
+    "notifications": "Thông Báo",
+    "language": "Ngôn Ngữ",
+    "theme": "Giao Diện",
+    "activity": "Hoạt Động",
+    "preferences": "Tùy Chọn"
+  },
+  "notifications": {
+    "title": "Thông Báo",
+    "markAllAsRead": "Đánh Dấu Tất Cả Đã Đọc",
+    "clearAll": "Xóa Tất Cả",
+    "new": "Mới",
+    "earlier": "Trước Đó"
+  },
+  "languages": {
+    "en": "Tiếng Anh",
+    "es": "Tiếng Tây Ban Nha",
+    "vi": "Tiếng Việt",
+    "th": "Tiếng Thái",
+    "zh": "Tiếng Trung"
+  }
+}

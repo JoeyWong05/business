@@ -1,0 +1,105 @@
+{
+  "app": {
+    "name": "DMPHQ",
+    "tagline": "Geschäftsausführungssystem"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "operations": "Betrieb",
+    "brandAssets": "Markenressourcen",
+    "financials": "Finanzen",
+    "marketing": "Marketing",
+    "analytics": "Analysen",
+    "people": "Personen",
+    "tools": "Werkzeuge",
+    "subscription": "Abonnement",
+    "settings": "Einstellungen",
+    "partnerPortal": "Partner-Portal",
+    "printOnDemand": "Print-on-Demand",
+    "projects": "Projekte",
+    "valuations": "Bewertungen",
+    "agencyKiller": "Agentur-Ersatz"
+  },
+  "common": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "loading": "Wird geladen...",
+    "noResults": "Keine Ergebnisse gefunden",
+    "back": "Zurück",
+    "next": "Weiter",
+    "submit": "Absenden",
+    "confirm": "Bestätigen",
+    "actions": "Aktionen",
+    "selectAll": "Alle auswählen",
+    "deselectAll": "Alle abwählen",
+    "viewAll": "Alle anzeigen",
+    "viewMore": "Mehr anzeigen",
+    "close": "Schließen"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "overview": "Übersicht",
+    "recentActivity": "Letzte Aktivitäten",
+    "quickActions": "Schnellaktionen",
+    "insights": "Erkenntnisse",
+    "companyHealth": "Unternehmensgesundheit"
+  },
+  "operations": {
+    "title": "Betriebs-Dashboard",
+    "metrics": "Kennzahlen",
+    "processes": "Geschäftsprozesse",
+    "costTracking": "Kostenverfolgung",
+    "projectManagement": "Projektmanagement",
+    "automationScore": "Automatisierungswert"
+  },
+  "printOnDemand": {
+    "title": "Print-on-Demand",
+    "productCatalog": "Produktkatalog",
+    "myStore": "Mein Shop",
+    "myDesigns": "Meine Designs",
+    "orders": "Bestellungen",
+    "howItWorks": "Wie es funktioniert"
+  },
+  "auth": {
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "register": "Registrieren",
+    "forgotPassword": "Passwort vergessen",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "username": "Benutzername",
+    "rememberMe": "Angemeldet bleiben"
+  },
+  "user": {
+    "profile": "Profil",
+    "settings": "Einstellungen",
+    "notifications": "Benachrichtigungen",
+    "language": "Sprache",
+    "theme": "Thema",
+    "activity": "Aktivität",
+    "preferences": "Präferenzen"
+  },
+  "notifications": {
+    "title": "Benachrichtigungen",
+    "markAllAsRead": "Alle als gelesen markieren",
+    "clearAll": "Alle löschen",
+    "new": "Neu",
+    "earlier": "Früher"
+  },
+  "languages": {
+    "en": "Englisch",
+    "es": "Spanisch",
+    "vi": "Vietnamesisch",
+    "th": "Thailändisch",
+    "zh": "Chinesisch",
+    "pt": "Portugiesisch",
+    "ja": "Japanisch",
+    "de": "Deutsch",
+    "fr": "Französisch"
+  }
+}

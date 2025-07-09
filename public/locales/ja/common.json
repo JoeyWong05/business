@@ -1,0 +1,105 @@
+{
+  "app": {
+    "name": "DMPHQ",
+    "tagline": "ビジネス実行システム"
+  },
+  "menu": {
+    "dashboard": "ダッシュボード",
+    "operations": "オペレーション",
+    "brandAssets": "ブランドアセット",
+    "financials": "財務",
+    "marketing": "マーケティング",
+    "analytics": "分析",
+    "people": "人材",
+    "tools": "ツール",
+    "subscription": "サブスクリプション",
+    "settings": "設定",
+    "partnerPortal": "パートナーポータル",
+    "printOnDemand": "オンデマンド印刷",
+    "projects": "プロジェクト",
+    "valuations": "評価",
+    "agencyKiller": "エージェンシーキラー"
+  },
+  "common": {
+    "save": "保存",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit": "編集",
+    "create": "作成",
+    "search": "検索",
+    "filter": "フィルター",
+    "loading": "読み込み中...",
+    "noResults": "結果が見つかりません",
+    "back": "戻る",
+    "next": "次へ",
+    "submit": "送信",
+    "confirm": "確認",
+    "actions": "アクション",
+    "selectAll": "すべて選択",
+    "deselectAll": "すべて選択解除",
+    "viewAll": "すべて表示",
+    "viewMore": "もっと見る",
+    "close": "閉じる"
+  },
+  "dashboard": {
+    "title": "ダッシュボード",
+    "overview": "概要",
+    "recentActivity": "最近のアクティビティ",
+    "quickActions": "クイックアクション",
+    "insights": "インサイト",
+    "companyHealth": "企業の健全性"
+  },
+  "operations": {
+    "title": "オペレーションダッシュボード",
+    "metrics": "主要指標",
+    "processes": "ビジネスプロセス",
+    "costTracking": "コスト追跡",
+    "projectManagement": "プロジェクト管理",
+    "automationScore": "自動化スコア"
+  },
+  "printOnDemand": {
+    "title": "オンデマンド印刷",
+    "productCatalog": "製品カタログ",
+    "myStore": "マイストア",
+    "myDesigns": "マイデザイン",
+    "orders": "注文",
+    "howItWorks": "仕組み"
+  },
+  "auth": {
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "register": "登録",
+    "forgotPassword": "パスワードを忘れた",
+    "email": "メール",
+    "password": "パスワード",
+    "username": "ユーザー名",
+    "rememberMe": "ログイン状態を保持"
+  },
+  "user": {
+    "profile": "プロフィール",
+    "settings": "設定",
+    "notifications": "通知",
+    "language": "言語",
+    "theme": "テーマ",
+    "activity": "アクティビティ",
+    "preferences": "設定"
+  },
+  "notifications": {
+    "title": "通知",
+    "markAllAsRead": "すべて既読にする",
+    "clearAll": "すべてクリア",
+    "new": "新規",
+    "earlier": "以前"
+  },
+  "languages": {
+    "en": "英語",
+    "es": "スペイン語",
+    "vi": "ベトナム語",
+    "th": "タイ語",
+    "zh": "中国語",
+    "pt": "ポルトガル語",
+    "ja": "日本語",
+    "de": "ドイツ語",
+    "fr": "フランス語"
+  }
+}

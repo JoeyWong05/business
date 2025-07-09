@@ -1,0 +1,46 @@
+
+Please create a new section in the DMPHQ platform called “Agency Killer.” This should be a centralized, AI-powered suite of tools that helps business owners eliminate the need to hire SEO agencies, ad agencies, copywriters, and strategy consultants. It should be designed like a modular dashboard, using tabs or cards within a single page, and styled consistently with the rest of DMPHQ.
+
+Build the following features inside the page:
+	1.	AI Copy Generator
+	•	Add a text input for product, goal, or offer
+	•	Let users select tone (e.g., Bold, Friendly, Professional, Luxury)
+	•	On button click, generate:
+	•	Email subject lines and bodies
+	•	Landing page copy
+	•	Social media ad copy (headline + body)
+	•	Instagram caption ideas
+	•	Include “Copy to Clipboard” button under each output
+	2.	SEO Toolkit
+	•	Add URL input to simulate a site audit
+	•	Display output cards with suggested:
+	•	Title tags
+	•	Meta descriptions
+	•	Keywords to rank for
+	•	SEO score or checklist (e.g., Mobile friendly, Site speed, H1 tags)
+	•	Include a keyword idea generator: user types industry → get top 10 SEO keywords
+	3.	Ad Campaign Builder
+	•	Input: Product or Offer Name
+	•	Output:
+	•	Target audience description
+	•	Suggested platforms (TikTok, Meta, Google)
+	•	Sample headlines
+	•	Sample ad copy
+	•	Suggested CTA buttons
+	•	Add “Export Campaign Brief” button (PDF or clipboard)
+	4.	Marketing Funnel Builder
+	•	Let user choose a funnel goal: (Email Capture, Product Launch, Lead Generation, Sales)
+	•	Generate a full funnel map:
+	•	Step 1: Landing Page
+	•	Step 2: Email Follow-up Sequence
+	•	Step 3: Retargeting Ads
+	•	Step 4: Close + Upsell
+	•	Include a visual card layout or progress builder
+	5.	Performance Simulator (Optional Bonus)
+	•	Based on inputs (budget, CTR, ROAS), simulate what kind of results the campaign could yield
+	•	Include adjustable sliders for budget or conversion rates
+	6.	General Design Notes
+	•	Use tabs or card layout to separate each tool
+	•	Make the section fully responsive and consistent with DMPHQ design
+	•	Use Tailwind styling with clean headings, spacing, and interactive elements
+	•	Label this section clearly as “Agency Killer” in the sidebar

@@ -1,0 +1,81 @@
+Please implement the following 5 features inside DMPHQ to make the system enterprise-grade, demo-ready, and scalable for internal or commercial use. These features are designed to improve usability, team collaboration, business visibility, and founder empowerment — without changing the sidebar structure. Use Tailwind for styling and match the existing UI/UX design language.
+
+⸻
+
+1. Notifications & Alerts Center
+	•	Add a global activity feed or notification tab accessible from the top-right of the header or via a bell icon
+	•	Feed should display dynamic events like:
+	•	“New SOP created by Craig”
+	•	“Valuation updated for Mystery Hype”
+	•	“Campaign launched: Spring Drop”
+	•	Allow marking notifications as read
+	•	Include reminders or alerts such as:
+	•	“SOP overdue”
+	•	“Weekly forecast not submitted”
+	•	Optional: Add email or Slack summary toggle in settings
+
+⸻
+
+2. Team Management & Roles System
+	•	Add a Team Settings page or modal accessible from the profile dropdown
+	•	Allow user invites by email or dummy inputs for demo mode
+	•	Assign roles:
+	•	Admin (full access)
+	•	Partner (view-only for Finance + Portal)
+	•	VA/User (restricted by module)
+	•	Optional: Add activity log (e.g., “Craig completed SOP: Customer Onboarding”)
+	•	Respect role-based permissions across views and buttons
+
+⸻
+
+3. AI-Powered SOP Builder
+	•	Add a section inside Operations titled “Smart SOP Builder”
+	•	User types in a task or objective (e.g., “How to launch a Klaviyo campaign”)
+	•	AI outputs:
+	•	Title
+	•	Steps (checklist)
+	•	Owner (dropdown)
+	•	Due date (optional)
+	•	Include “Save SOP” and “Send to Team” button
+	•	Display AI-created SOPs in the SOP Library
+
+⸻
+
+4. Demo Mode Toggle
+	•	Add a toggle button on the homepage header or sidebar
+	•	When enabled, populate the entire system with realistic mock data:
+	•	Finance: revenue, valuation, forecasts
+	•	Marketing: campaigns, ad performance, SEO keywords
+	•	Sales: leads, pipeline, orders
+	•	CRM: customers, segments, feedback
+	•	Strategy: health score, goals
+	•	Disable editing in demo mode and show a “Demo Active” badge in top bar
+	•	Include “Reset Demo Data” option
+
+⸻
+
+5. Company Health Snapshot (Homepage Widget)
+	•	Add a new homepage card: “Company Health Score”
+	•	Score should range from 0–100%
+	•	Inputs can include:
+	•	Revenue growth (last 30 days)
+	•	Automation Score
+	•	SOP completion %
+	•	Campaign activity
+	•	Customer feedback (NPS)
+	•	Include trending arrow (↑ / ↓) and short AI insight like:
+	•	“Health down 7% — revenue dip and missed SOPs”
+	•	Card should be clickable and route to the Strategy page
+
+⸻
+
+General Guidelines
+	•	Match DMPHQ’s current style system using Tailwind
+	•	Use cards, tabs, and hover states for modern SaaS feel
+	•	Ensure mobile responsiveness
+	•	No routing changes — everything must live inside existing page files
+	•	Use mock/demo data where needed for testing and polish
+
+⸻
+
+When complete, these features will make DMPHQ a fully operational, investor-ready, and potentially viral SaaS product. Please ensure every module feels usable, insightful, and consistent across the app.

@@ -1,0 +1,41 @@
+Fix All Non-Functional Buttons, Cards, and Routes Across DMPHQ
+
+Please audit and fix all broken or non-functional buttons, links, and cards throughout the DMPHQ platform. The goal is to ensure that every interactive element across the sidebar, homepage, and module pages performs its intended action — including routing, modals, form submissions, or toggles. This is required to complete the final polish before public or beta launch.
+	1.	Sidebar Navigation
+
+	•	Ensure every item in the sidebar routes correctly to its respective dashboard or module
+	•	Test routes like: /finance-dashboard, /operations-dashboard, /crm-dashboard, /agency-killer, /projects-dashboard, etc.
+	•	Fix any buttons or sections that show no response or route incorrectly
+
+	2.	Homepage Cards & Buttons
+
+	•	Make all homepage tiles/cards clickable and route to the correct module
+	•	Example: “Automation Score” card → /operations-dashboard
+	•	“Company Health” → /strategy-dashboard
+	•	“Campaigns” → /marketing-dashboard
+	•	Test all CTA buttons such as “View Details,” “Go to Module,” and fix any that do not respond
+
+	3.	In-Module Buttons
+
+	•	Test and fix functionality for all in-module CTAs, including:
+	•	“Create Task”
+	•	“Add Campaign”
+	•	“Create SOP”
+	•	“Apply Template”
+	•	“Export PDF”
+	•	“Save” and “Submit” buttons
+	•	Ensure that clicking these buttons performs the intended action (e.g. updates data, opens modal, submits form)
+
+	4.	Demo Mode Compatibility
+
+	•	All routes and buttons should function in demo mode — they must display mock data or pre-filled interactions
+	•	Disable write actions if needed, but always show a working UI response or visual feedback
+
+	5.	General Requirements
+
+	•	Use router logic consistent with the current app structure (e.g., React Router if applicable)
+	•	Show success/failure messages on form submits or interactive actions
+	•	Include hover, active, or loading states on key buttons
+	•	Fix any unresponsive clickable areas (especially inside cards or tiles)
+
+Once complete, all core UI elements should be fully functional and provide a seamless, interactive experience across the entire app.

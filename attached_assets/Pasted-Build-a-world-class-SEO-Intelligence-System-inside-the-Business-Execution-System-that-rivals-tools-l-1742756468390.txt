@@ -1,0 +1,44 @@
+Build a world-class SEO Intelligence System inside the Business Execution System that rivals tools like Moz, Ahrefs, and SEMrush. This module should allow users to view detailed insights about their own business’s SEO (both on-page and off-page), as well as keyword rankings, competitor tracking, and paid ad visibility. Each business in the system (DMP, Mystery Hype, AlcoEaze, Lone Star, Hide Cafe Bars) should have its own SEO dashboard.
+
+The SEO module should include the following features:
+	1.	SEO Overview Dashboard
+– Display a clean summary of total organic traffic, keyword rankings, backlinks, domain authority, and page health
+– Include current Automation Score tied to SEO factors
+– Visual graphs showing organic traffic trends, ranking changes, and link growth over time
+	2.	On-Page SEO Analysis
+– Crawl all connected websites and list SEO performance for each page
+– Show status for key on-page elements: Title Tags, Meta Descriptions, H1-H6 structure, Internal Linking, Image ALT Text, Page Speed
+– Include page score and suggestions to improve SEO health
+	3.	Off-Page SEO Tracking
+– Show all known backlinks, including source domain, anchor text, and quality score
+– Track referring domains, dofollow/nofollow ratios, and link velocity
+– Alert when a major backlink is gained or lost
+	4.	Keyword Rankings
+– Track rankings for custom keywords across Google (desktop and mobile)
+– Show current position, change over time, traffic potential, CPC, and search volume
+– Group keywords by page, brand, or category
+– Include SERP previews for each keyword
+	5.	Competitor Intelligence
+– Let users add competitors and track their ranking keywords, backlink profiles, and top-performing pages
+– Show estimated traffic, domain authority, and paid ad spend
+– Display what keywords competitors are bidding on and approximate CPC
+	6.	Content Gap Analysis
+– Identify keywords competitors rank for but the user doesn’t
+– Suggest new keywords to target
+– Recommend blog titles and pages to build content around those gaps
+	7.	Technical SEO Checker
+– Scan for common issues: broken links, missing tags, mobile usability, HTTPS status, duplicate content
+– Show crawl errors and indexing problems with severity scores
+	8.	Paid Ad Spy (Optional)
+– Show which Google Ads competitors are running
+– Display ad copy, landing pages, keyword targeting, and estimated spend
+– Offer insights into ad strategy and A/B variations
+	9.	Custom Reports & Exports
+– Let users generate PDF or CSV reports of SEO health, keyword rankings, and competitor comparisons
+– Include visual charts and executive summaries
+– Schedule reports to send weekly/monthly
+	10.	AI SEO Assistant
+– Suggest keyword clusters, backlink outreach strategies, meta descriptions, and content upgrades
+– Analyze SEO score and provide 3 high-impact actions to take
+
+Ensure this module is fully visual with graphs, tables, filters, and search. Use a left-hand nav for major sections and support mobile responsiveness. Allow users to connect their own Google Search Console and Analytics accounts. Give each business its own SEO dashboard with data segmented by domain or page. This SEO system should be intelligent, actionable, and powerful enough to replace external tools like Ahrefs, Moz, and SEMrush — directly integrated into our internal platform.
