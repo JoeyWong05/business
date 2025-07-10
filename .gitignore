@@ -32,3 +32,6 @@ replit.nix
 *.spec.ts
 *.mp4
 *.mov
+
+.env
+
